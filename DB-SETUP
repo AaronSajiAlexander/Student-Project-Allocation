@@ -1,3 +1,0 @@
-1. Run apache and mysql from xampp control panel and go to http://localhost/phpmyadmin/
-2. Create a schema called "spa"
-3. I've created 3 tables under spa schema :
