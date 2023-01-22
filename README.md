@@ -6,4 +6,7 @@ Setting up The DB:
 1. open xampp control panel and start apache and mysql services. 
 2. go to http://localhost/phpmyadmin/ and create a schema called "spa"
 3. spa contains 3 tables. their structures are given below:
-![alt text]C:\Users\7265\Downloads\image1.png
+![image1](https://user-images.githubusercontent.com/73333888/213902488-11af46d9-b7c4-427d-abda-b32ca53d790a.png)
+![image](https://user-images.githubusercontent.com/73333888/213902506-ce6521ab-cb2f-49b0-b9e7-cc3d667e1fad.png)
+![image](https://user-images.githubusercontent.com/73333888/213902515-c7d42cb1-2553-4ad7-aea5-44c0b2557270.png)
+
